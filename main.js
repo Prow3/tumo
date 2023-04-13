@@ -15,4 +15,9 @@
 // }
 // button.addEventListener("click", post);
 
-let a = "a";
+function bebration(kto) {
+  let bebrik = kto + " жёский бебриk";
+  return bebrik;
+}
+
+console.log(bebration("nikit"));
